@@ -1,7 +1,12 @@
+[HOME](/README.md)
+
 ## Day 1 JavaScript
 
 1. **install** node.js, vscode, extensions
-
+2. Importend Links
+    - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    - [w3schools](https://www.w3schools.com/js/default.asp)
+    - [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 2. **JavaScript engines:**
     - Goodle Chrome uses an engine called **Chrome V8**.
     - Firefox uses **SpiderMonkey**
